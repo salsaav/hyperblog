@@ -1,5 +1,10 @@
 Esta es la historia de Andres Villarreal
 
-Andres Villarreal tiene 25 años y nacio en Mexico <3.
+Andres Villarreal tiene 24 años y nacio en Mexico <3.
 
-Hoy hablaremos de su historia.
+Hoy hablaremos de su historia. 
+
+
+andy_@DESKTOP-DB58HQ3 MINGW64 ~/Documents/Cursos/Platzi/Git/proyecto1 (master)
+$ alias arbolito="git log --all --graph --decorate --oneline"
+
